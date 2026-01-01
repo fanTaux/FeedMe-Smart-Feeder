@@ -21,9 +21,9 @@
 
 
 ### Problem Statements
- <div align="justify"> 1. Feeding and watering chickens is still performed manually, requiring the farmer's constant physical presence.
+1. Feeding and watering chickens is still performed manually, requiring the farmer's constant physical presence.
 2. Farm management is inefficient in terms of time and energy due to repetitive daily tasks.
-3. The temperature inside the chicken coop is unpredictable and not consistently monitored, which can negatively affect chicken health and growth. </div>
+3. The temperature inside the chicken coop is unpredictable and not consistently monitored, which can negatively affect chicken health and growth.
 
    
 ### Goals
@@ -79,7 +79,8 @@
 - **Evaluation:** To assess performance and durability, the system will be tested in a real-world environment, such as a chicken coop. This evaluation will measure the device's robustness and effectiveness under actual operational conditions.
 
 ## Conclusion
-This IoT project can save cost, time, and effort for chicken farmers. Its automatic features can provide benefits for chicken farmers. With this product we can also bring a better life with future technology. As long as we can use this product well, we can develop chicken farming with better techniques and provide better efficiency for other activities.
+<div align="justify"> This IoT project can save cost, time, and effort for chicken farmers. Its automatic features can provide benefits for chicken farmers. With this product we can also bring a better life with future technology. As long as we can use this product well, we can develop chicken farming with better techniques and provide better efficiency for other activities. </div>
+
 
 ## Team
 1. Balevvvvy (https://github.com/Balevvvvy)
